@@ -1,0 +1,44 @@
+div{    
+    height:200px;
+    width:500px;
+    border:50px hsl(234, 48%, 11%) solid;
+    background-color: hsl(244, 38%, 16%);
+    color:white;
+    text-align:left;
+    background-image: url(imgs/desktop.jpg);
+    background-repeat: no-repeat;
+    background-size:40% ;
+    background-position: right top;
+    
+
+} 
+
+table{
+    
+}
+header{
+    
+   
+}
+h2{
+    font-size:12px;
+    font-family: 'Lexend Deca', sans-serif;
+    color: grey;
+    line-height:0.3em
+}
+h1{
+    font-size:15px;
+    font-family: 'Inter', sans-serif;
+    
+}
+td{
+    color: grey;
+    font-size:12px;
+    
+    
+}
+
+mark{
+    background-color:hsl(244, 38%, 16%);
+    color:rgb(104, 15, 104);
+}
